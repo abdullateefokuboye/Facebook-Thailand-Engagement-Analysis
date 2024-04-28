@@ -94,7 +94,7 @@ model3 = LogisticRegression().fit(X_train_clusters, y_train)
 
 Each model's performance is assessed, with the original features model showing the best ability to differentiate photo from non-photo posts based on engagement.
 
-![Engagement Insights](/Screenshot 2024-04-28 171346 (2).png)
+![Engagement Insights](https://github.com/abdullateefokuboye/Facebook-Thailand-Engagement-Analysis/blob/main/Screenshot%202024-04-28%20171346%20(2).png)
 ## Insights and Actionable Strategies
 
 Our analysis leads to actionable insights:
